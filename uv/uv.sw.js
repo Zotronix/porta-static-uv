@@ -1,5 +1,5 @@
-importScripts('/uv/uv.bundle.js');
-importScripts('/uv/uv.config.js');
+importScripts('https://cdn.jsdelivr.net/gh/Zotronix/porta-static-uv@main/uv/uv.bundle.js');
+importScripts('https://cdn.jsdelivr.net/gh/Zotronix/porta-static-uv@main/uv/uv.config.js');
 
 class UVServiceWorker extends EventEmitter {     
     constructor(config = __uv$config) {
