@@ -1,4 +1,4 @@
-importScripts("/uv/uv.sw.js");
+importScripts("https://cdn.jsdelivr.net/gh/Zotronix/porta-static-uv@main/uv/uv.sw.js");
 
 const sw = new UVServiceWorker();
 
