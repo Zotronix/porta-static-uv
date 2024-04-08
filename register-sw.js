@@ -2,7 +2,7 @@
 /**
  * Distributed with Ultraviolet and compatible with most configurations.
  */
-const stockSW = "https://raw.githubusercontent.com/Zotronix/porta-static-uv/uv-sw.js";
+const stockSW = "https://raw.githubusercontent.com/Zotronix/porta-static-uv/main/uv-sw.js";
 
 /**
  * List of hostnames that are allowed to run serviceworkers on http:
