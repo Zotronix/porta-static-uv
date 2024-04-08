@@ -1,6 +1,6 @@
-importScripts('https://raw.githubusercontent.com/Zotronix/porta-static-uv/main/uv/uv.bundle.js');
-importScripts('https://raw.githubusercontent.com/Zotronix/porta-static-uv/main/uv/uv.config.js');
-importScripts('https://raw.githubusercontent.com/Zotronix/porta-static-uv/main/uv/uv.sw.js');
+importScripts('/Zotronix/porta-static-uv/main/uv/uv.bundle.js');
+importScripts('/Zotronix/porta-static-uv/main/uv/uv.config.js');
+importScripts('/Zotronix/porta-static-uv/main/uv/uv.sw.js');
 importScripts('https://arc.io/arc-sw-core.js');
 
 const sw = new UVServiceWorker();
